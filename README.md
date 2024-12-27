@@ -6,7 +6,7 @@
 
 软件具备可视化界面，通俗易懂，易于操作。
 
-![](C:\Users\Administrator\Pictures\Screenshots\屏幕截图%202024-12-27%20091711.png)
+
 
 ## 软件功能
 
